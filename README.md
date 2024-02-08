@@ -1,0 +1,1 @@
+# AI-Competition-to-Detect-Semiconductor-Device-Abnormalities
